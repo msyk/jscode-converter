@@ -8,7 +8,7 @@ Masayuki Nii
 ## Installing
 After install this repository on your side, you have to execute commands below.
 <pre>
-cd js-converter
+cd jscode-converter
 npm install acorn
 npm install escodegen
 </pre>
